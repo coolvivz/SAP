@@ -12,7 +12,7 @@
 <logicalModel id="PurchaseOrder.Header">
   <attributes>
     <attribute id="APPROVALSTATUS" order="1" displayAttribute="false" attributeHierarchyActive="false">
-      <descriptions defaultDescription="APPROVALSTATUS"/>
+      <descriptions defaultDescription="APPROVALSTATUS1"/>
       <keyMapping columnObjectName="PurchaseOrder.Header" columnName="APPROVALSTATUS"/>
     </attribute>
     <attribute id="CONFIRMSTATUS" order="2" displayAttribute="false" attributeHierarchyActive="false">
